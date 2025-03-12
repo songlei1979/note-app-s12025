@@ -1,0 +1,1 @@
+export const BaseUrl = "https://note-backend-s12025.vercel.app";
